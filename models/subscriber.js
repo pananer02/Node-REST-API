@@ -17,4 +17,3 @@ const subscriberSchema = new mongoose.Schema({
 })
 
 module.exports = mongoose.model('Subscriber', subscriberSchema)
-//test
